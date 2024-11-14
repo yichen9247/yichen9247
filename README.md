@@ -1,4 +1,4 @@
-## yichen9247（Hua）
+## <span style="color: #7dc09a">yichen9247（Hua）</span>
 
 - 微信公众帐号：Hua Fans
 - 个人全栈项目：<a href="https://github.com/yichen9247/HandSock" target="_blank">Handsock</a>
